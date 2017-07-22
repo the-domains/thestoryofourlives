@@ -1,9 +1,28 @@
-name: The Story of Our Lives
+typography_spectrum: 0.3136201
+content_rating:
+  adult: false
+color:
+  lightness: 0.4982079
+  brandColors:
+    - '#FFFFD9'
+    - '#00082C'
+    - '#015FAF'
+    - '#D9A093'
+    - '#30AADB'
+  saturation: 0.4784946
+  brandStrength: 0.4605735
+  rhythmicContrast: 0.453405
+github: true
+opengraph: {}
+layout_spectrum: 1
 analytics:
   google: UA-64070424-1
-github: true
-description: Of Arts & Culture
 author: {}
+name: The Story of Our Lives
+navigation:
+  - name: About us
+    id: fb48f60c-abd4-428f-94de-444f79163ffc
+    type: content
 collections:
   - index:
       path: /
@@ -16,24 +35,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content: []
-layout_spectrum: 1
-color:
-  lightness: 0.4982079
-  brandColors:
-    - '#FFFFD9'
-    - '#00082C'
-    - '#015FAF'
-    - '#D9A093'
-    - '#30AADB'
-  saturation: 0.4784946
-  brandStrength: 0.4605735
-  rhythmicContrast: 0.453405
-content_rating:
-  adult: false
-typography_spectrum: 0.3136201
-opengraph: {}
 title: 'Everyday Inspirations, Stories and Adventures'
+content: []
+description: Of Arts & Culture
 purpose:
   - type: external
     url: 'http://thefilmdream.com'
