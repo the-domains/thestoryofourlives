@@ -23,6 +23,9 @@ navigation:
   - name: About us
     id: fb48f60c-abd4-428f-94de-444f79163ffc
     type: content
+  - name: Insights & Ideas
+    id: a7656111-b1e2-453d-b43a-3e6eb7a731eb
+    type: content
 collections:
   - index:
       path: /
