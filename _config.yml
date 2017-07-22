@@ -34,3 +34,7 @@ content_rating:
 typography_spectrum: 0.3136201
 opengraph: {}
 title: 'Everyday Inspirations, Stories and Adventures'
+purpose:
+  - type: external
+    url: 'http://thefilmdream.com'
+    label: Powered by thefilmdream.com
