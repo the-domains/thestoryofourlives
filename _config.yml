@@ -23,11 +23,11 @@ navigation:
   - name: About us
     id: fb48f60c-abd4-428f-94de-444f79163ffc
     type: content
-  - name: What's Happening?
-    id: a7656111-b1e2-453d-b43a-3e6eb7a731eb
-    type: content
   - name: Arts & Culture
     id: 43f5241b-71c7-40d0-9bd0-bce18bdf7a8e
+    type: content
+  - name: What's Happening?
+    id: a7656111-b1e2-453d-b43a-3e6eb7a731eb
     type: content
 collections:
   - index:
