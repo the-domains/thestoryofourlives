@@ -1,13 +1,13 @@
 ---
 author: []
-datePublished: '2017-07-22T03:50:31.061Z'
+datePublished: '2017-07-22T03:51:42.254Z'
 via: {}
 title: >-
   A showcase of the best Filipino stories in this year's Cinemalaya Philippine
   Independent Film Festival 2016
 publisher: {}
 description: ''
-dateModified: '2017-07-22T03:50:29.427Z'
+dateModified: '2017-07-22T03:51:40.964Z'
 sourcePath: >-
   _posts/2016-08-12-a-showcase-of-the-best-filipino-stories-in-this-years-cinem.md
 inFeed: true
