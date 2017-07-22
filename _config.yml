@@ -29,6 +29,9 @@ navigation:
   - name: What's Happening?
     id: a7656111-b1e2-453d-b43a-3e6eb7a731eb
     type: content
+  - name: Adventure & Inspirations
+    id: 362f78b6-7ec8-4ffe-9f0c-05f374ab0580
+    type: content
 collections:
   - index:
       path: /
