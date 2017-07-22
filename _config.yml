@@ -48,3 +48,6 @@ purpose:
   - type: external
     url: 'http://thefilmdream.com'
     label: 'http://thefilmdream.com'
+  - type: contact
+    url: 'mailto:thefilmdream@icloud.com'
+    label: Let's collaborate!
