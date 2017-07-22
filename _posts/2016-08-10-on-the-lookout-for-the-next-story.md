@@ -1,18 +1,18 @@
 ---
 title: On the lookout for the next story...
-datePublished: '2017-07-22T03:49:36.181Z'
-dateModified: '2017-07-22T03:49:34.783Z'
+datePublished: '2017-07-22T04:14:32.473Z'
+dateModified: '2017-07-22T04:14:31.090Z'
 author: []
 description: ''
 publisher: {}
 via: {}
 sourcePath: _posts/2016-08-10-on-the-lookout-for-the-next-story.md
-inFeed: true
+inFeed: false
 hasPage: true
 starred: false
 datePublishedOriginal: '2016-09-14T06:21:18.296Z'
 url: on-the-lookout-for-the-next-story/index.html
-_type: Article
+_type: Blurb
 
 ---
 # On the lookout for the next story...
