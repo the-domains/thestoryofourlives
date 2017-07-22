@@ -46,7 +46,7 @@ collections:
       path: '/:title/'
 title: Of Inspirations & Adventures
 content: []
-description: Of Arts & Culture
+description: Arts & Culture For a Better Nation
 purpose:
   - type: external
     url: 'http://thefilmdream.com'
