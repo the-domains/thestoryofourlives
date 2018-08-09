@@ -1,4 +1,4 @@
-name: FDP Enterprises
+name: Pascual Enterprises
 analytics: {}
 purpose:
   - type: external
@@ -10,21 +10,19 @@ purpose:
 github: true
 description: For a Better Philippines
 author:
-  name: FDP Enterprises
-  url: 'http://fdpcommunication.com'
-  email: fdpcommunication@gmail.com
+  name: Pascual Enterprises
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -35,7 +33,7 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/71f802de-bce8-450d-bcf7-1e3d7b53a05c.jpg
     metadata:
       author: []
-      '@context': 'http://schema.org'
+      datePublished: null
       keywords: []
       '@type': MediaObject
       publisher:
@@ -46,7 +44,7 @@ content:
       description: ''
       related: []
       app_links: []
-      datePublished: null
+      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
