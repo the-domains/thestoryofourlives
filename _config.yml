@@ -1,4 +1,4 @@
-name: Pascual Enterprises
+name: FDP Enterprises
 analytics: {}
 purpose:
   - type: external
@@ -10,7 +10,7 @@ purpose:
 github: true
 description: For a Better Philippines
 author:
-  name: Pascual Enterprises
+  name: FDP Enterprises
 collections:
   - index:
       path: /
