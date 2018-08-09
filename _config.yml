@@ -17,12 +17,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -33,7 +33,7 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/71f802de-bce8-450d-bcf7-1e3d7b53a05c.jpg
     metadata:
       author: []
-      datePublished: null
+      '@context': 'http://schema.org'
       keywords: []
       '@type': MediaObject
       publisher:
@@ -44,7 +44,7 @@ content:
       description: ''
       related: []
       app_links: []
-      '@context': 'http://schema.org'
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
