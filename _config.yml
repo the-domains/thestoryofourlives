@@ -11,6 +11,7 @@ github: true
 description: For a Better Philippines
 author:
   name: FDP Enterprises
+  url: 'http://www.fdpenterprises.com'
 collections:
   - index:
       path: /
